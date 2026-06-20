@@ -1,7 +1,16 @@
 # ReactJS-Mastery
 
 A complete hands-on ReactJS learning repository covering beginner to advanced React concepts.
+# Employee Management Dashboard
 
+![Employee Dashboard](dashboard.png)
+
+## Features
+
+- Employee Search
+- Department Filter
+- Responsive UI
+- React Components
 ## Topics Covered
 
 ### Fundamentals
